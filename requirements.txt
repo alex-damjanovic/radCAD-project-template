@@ -1,0 +1,6 @@
+numpy
+radcad
+matplotlib
+pandas
+plotly
+nbformat>=4.2.0
